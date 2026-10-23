@@ -1,8 +1,8 @@
 # Hi, I'm Maxim 👋
 [![Telegram](https://img.shields.io/badge/-@vRomBS-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/vRomBS) [![Email](https://img.shields.io/badge/-123a56z5@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:123a56z5@gmail.com) [![GitHub](https://img.shields.io/badge/-viprom4-181717?style=flat&logo=github&logoColor=white)](https://github.com/viprom4)
 
-- 💻 Пишу серверную логику на **Java/Spring**. Ценю понятный код и удобные API.
-- 🎮 Вне работы: game dev, cinematics, кофе.
+- 💻 Writing backend logic in Java/Spring. I value clean code and well-designed APIs.
+- 🎮 Beyond work: game dev, cinematics, coffee.
 
 <h2>Stack:</h2>
 <p>
