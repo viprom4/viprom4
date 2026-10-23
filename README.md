@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Maxim 👋
+[![Telegram](https://img.shields.io/badge/-@vRomBS-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/vRomBS) [![Email](https://img.shields.io/badge/-123a56z5@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:123a56z5@gmail.com) [![GitHub](https://img.shields.io/badge/-viprom4-181717?style=flat&logo=github&logoColor=white)](https://github.com/viprom4)
 
-<!--
-**viprom4/viprom4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Пишу серверную логику на **Java/Spring**. Ценю понятный код и удобные API.
+- 🎮 Вне работы: game dev, cinematics, кофе.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Стек:
+<p>
+  <img src="src/icons/java.png" height="40" align="middle" alt="Java" />
+  <img src="src/icons/c.png" height="40" align="middle" alt="C#" />
+  <img src="src/icons/html.png" height="40" align="middle" alt="HTML" />
+  <img src="src/icons/css.png" height="40" align="middle" alt="CSS" />
+  <img src="src/icons/js.png" height="40" align="middle" alt="JS" />
+  <img src="src/icons/go.png" height="40" align="middle" alt="Go" />
+  <img src="src/icons/ue.png" height="40" align="middle" alt="UE" />
+  <img src="src/icons/unity.png" height="40" align="middle" alt="Unity" />
+</p>
