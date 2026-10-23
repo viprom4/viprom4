@@ -4,7 +4,7 @@
 - 💻 Пишу серверную логику на **Java/Spring**. Ценю понятный код и удобные API.
 - 🎮 Вне работы: game dev, cinematics, кофе.
 
-# Стек:
+<h2>Stack:</h2>
 <p>
   <img src="src/icons/java.png" height="40" align="middle" alt="Java" />
   <img src="src/icons/c.png" height="40" align="middle" alt="C#" />
